@@ -77,7 +77,7 @@ div.menu_area{
   clear: both;
   margin: 10px 0 0 20px;
   color: white;
-  background-color: rgba(115, 184, 226, 0.7);
+  background-color: rgba(255, 165, 0, 0.7);
   
   -moz-border-radius:10px;/* Firefox用の角丸設定 */
   -webkit-border-radius:10px; /* Safari,Google Chrome用の角丸設定 */
@@ -138,7 +138,7 @@ div#main_panel_area ul{
 }
 
 div#drink{
-  background-color: rgba(115, 184, 226, 0.7);
+  background-color: rgba(255, 165, 0, 0.7);
   margin: 10px 0 0 20px;
   
   -moz-border-radius:10px;/* Firefox用の角丸設定 */
@@ -204,7 +204,7 @@ div#side_bar_area{
 }
 
 div#reserve_info{
-  background-color: #73B8E2;
+  background-color: rgb(255, 165, 0);
   padding: 10px;
   
   -moz-border-radius:10px;/* Firefox用の角丸設定 */
@@ -276,7 +276,7 @@ a:hover{
 }
 
 .under_line{
-  border-bottom: 1px dashed orange;
+  border-bottom: 1px dashed white;
 }
 
 .put_center{
